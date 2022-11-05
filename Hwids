@@ -4,6 +4,6 @@ function Set (list)
    return set
 end
 return Set {
-    "", -- once you get the user's hashed hwid and decoded it put it here
+    "0000800482000000080002408100003011005040800000000000000050000010", -- once you get the user's hashed hwid and decoded it put it here
  
 }
